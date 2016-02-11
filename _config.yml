@@ -1,0 +1,28 @@
+name: prudence-tests
+favicon: null
+layout_spectrum: 0.8820619559846818
+typography_spectrum: 0.7360196122899652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.31446450646035373
+  lightness: 0.20717540360055864
+  saturation: 0.6791354301385581
+  rhythmicContrast: 0.6709622191265225
+purpose: []
